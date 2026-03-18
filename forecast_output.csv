@@ -1,0 +1,16 @@
+Department,Year,Predicted_Hires
+Admin Offices,2019,2.4
+Admin Offices,2020,2.6
+Admin Offices,2021,2.7
+IT/IS,2019,12.7
+IT/IS,2020,13.8
+IT/IS,2021,15.0
+Production,2019,21.2
+Production,2020,21.5
+Production,2021,21.8
+Sales,2019,5.5
+Sales,2020,5.8
+Sales,2021,6.0
+Software Engineering,2019,0.0
+Software Engineering,2020,0.0
+Software Engineering,2021,0.0
